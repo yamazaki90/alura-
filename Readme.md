@@ -1,7 +1,5 @@
 # API de filmes [IMDB](https://www.imdb.com/chart/top/)
 
-Vamos construir uma aplicação do zero da ***Imersão Alura*** para consumir a API do IMDb e exibir os filmes mais populares, destacando seus pôsteres e visualizando sua classificação... Tudo isso sem usar nenhuma biblioteca externa!
-
 ## Sobre
 
 Basicamente se abre um código de ***`request(), send(), response()`*** para a busca dos títulos
